@@ -1,4 +1,4 @@
-# Stone-SWObelisk-Modpack
+# Stonewall Obelisk Modpack
 
 - Modpack Version: v4.2.1
 
