@@ -1,0 +1,23 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Nageld/AtO_Loader/master/schemas/card_schema.json",
+  "cardName": "Wrecking Throw",
+  "baseCard": "wreckingthrow",
+  "id": "wreckingthrowB",
+  "cardUpgraded": 2,
+  "cardRarity":1,
+  "cardType": 2,
+  "cardTypeAux": [],
+  "cardClass": 0,
+  "energyCost": 3,
+  "vanish": true,
+  "targetType": 0,
+  "targetSide": 0, 
+  "damage": 1,
+  "specialValue1": 2,
+  "ispecialAuraCurseName1": "block",
+  "specialValueModifier1": 100.0,
+  "damageType": 2,
+  "damageSpecialValue1": true,
+  "curseCharges": 1,
+  "icurse": "weak"
+}

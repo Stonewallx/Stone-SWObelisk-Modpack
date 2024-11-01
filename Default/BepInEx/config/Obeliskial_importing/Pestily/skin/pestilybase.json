@@ -1,0 +1,15 @@
+{
+    "BaseSkin": true,
+    "PerkLevel": 0,
+    "SkinGO": "skinpestily",
+    "SkinID": "biohealerbase",
+    "SkinName": "Pestily",
+    "SkinOrder": 0,
+    "SkinSubclass": "biohealer",
+    "Sku": "",
+    "SpritePortrait": "pestilyportrait",
+    "SpritePortraitGrande": "pestilyportraitGrande",
+    "SpriteSilueta": "pestilySilueta",
+    "SpriteSiluetaGrande": "pestilySiluetaGrande",
+    "SteamStat": ""
+}

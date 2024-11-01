@@ -1,0 +1,21 @@
+{
+    "ZoneID": "Senenthia",
+    "ZoneName": "Senenthia",
+    "ChangeTeamOnEntrance": false,
+    "DisableExperienceOnThisZone": false,
+    "DisableMadnessOnThisZone": false,
+    "NewTeam": [],
+    "ObeliskFinal": false,
+    "ObeliskHigh": false,
+    "ObeliskLow": false,
+    "RestoreTeamOnExit": false,
+    "BackgroundImg": "",
+    "BackgroundImg2": "",
+    "BackgroundImg3": "",
+    "BackgroundImg2Req": "",
+    "BackgroundImg3Req": "",
+    "TransitionImg": "",
+    "MainZoneID": "",
+    "ReplaceMapGOSprite": "Background_Over",
+    "ReplaceMapGOSpriteWith": "senenthia_over_new"
+}

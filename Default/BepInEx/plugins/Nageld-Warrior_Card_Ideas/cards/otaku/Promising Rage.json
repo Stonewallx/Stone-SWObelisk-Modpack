@@ -1,0 +1,36 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Nageld/AtO_Loader/master/schemas/card_schema.json",
+  "cardName": "Promising Rage",
+  "id": "promisingrage",
+  "cardUpgraded": 0,
+  "cardRarity": 2,
+  "cardType": 11,
+  "cardTypeAux": [9,20],
+  "cardClass": 0,
+  "energyCost": 3,
+  "playable": true,
+  "autoplayDraw": false,
+  "autoplayEndTurn": false,
+  "vanish": true,
+  "innate": false,
+  "targetType": 0,
+  "targetSide": 3, 
+  "moveToCenter": false,
+
+  "discardCard": 10,
+
+  "ispecialAuraCurseName1":"",
+  "specialValue1": 3,
+  "specialValue2": 3,
+  "specialValueModifier1": 100,
+  "auraChargesSpecialValue1": true,
+  "iaura": "inspire",
+  "ispecialAuraCurseName1":"inspire",
+
+  "specialValue2Modifier1": 200,
+  "auraCharges2SpecialValue2": true,
+  "iaura2": "fury",
+  "ispecialAuraCurseName2":"fury",
+
+  "imageFileName": "PromisingRage.png"
+}

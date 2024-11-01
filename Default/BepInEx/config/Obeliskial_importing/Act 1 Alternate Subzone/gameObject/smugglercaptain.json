@@ -1,0 +1,8 @@
+{
+    "NewGameObjectID": "smugglercaptain",
+    "BaseGameObjectID": "andrinSkinPro",
+    "SpriteToUse": "skinSmugglerCaptain",
+    "ScaleX": 1,
+    "ScaleY": 1,
+    "Flip": true
+}

@@ -1,0 +1,15 @@
+{
+    "CombatID": "esubterriver_4e",
+    "CinematicData": "",
+    "CombatBackground": "Spider_Lair",
+    "CombatEffect": [],
+    "CombatMusic": "Foreverlands - 320bit",
+    "CombatTier": "T0",
+    "Description": "mud and water elemental",
+    "EventData": "e_subterriver4_i",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": ["mudelemental","waterelemental"],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2"
+}

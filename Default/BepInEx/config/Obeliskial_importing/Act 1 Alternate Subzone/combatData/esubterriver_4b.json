@@ -1,0 +1,15 @@
+{
+    "CombatID": "esubterriver_4b",
+    "CinematicData": "",
+    "CombatBackground": "Spider_Lair",
+    "CombatEffect": [],
+    "CombatMusic": "5_Alexander Nakarada - Explorer",
+    "CombatTier": "T2",
+    "Description": "mist knight",
+    "EventData": "e_subterriver4_c",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": ["mistknight"],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T4"
+}

@@ -1,0 +1,21 @@
+{
+    "ZoneID": "subterriver",
+    "ZoneName": "Subterranean River",
+    "ChangeTeamOnEntrance": false,
+    "DisableExperienceOnThisZone": false,
+    "DisableMadnessOnThisZone": false,
+    "NewTeam": [],
+    "ObeliskFinal": false,
+    "ObeliskHigh": false,
+    "ObeliskLow": false,
+    "RestoreTeamOnExit": false,
+    "BackgroundImg": "zone_subterriver",
+    "BackgroundImg2": "zone_subterriver_poisoned",
+    "BackgroundImg3": "",
+    "BackgroundImg2Req": "act1subzonepoison",
+    "BackgroundImg3Req": "",
+    "TransitionImg": "transition_subterriver",
+    "MainZoneID": "senenthia",
+    "ReplaceMapGOSprite": "",
+    "ReplaceMapGOSpriteWith": ""
+}

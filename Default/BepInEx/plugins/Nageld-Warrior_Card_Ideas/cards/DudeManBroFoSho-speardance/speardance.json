@@ -1,0 +1,33 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Nageld/AtO_Loader/master/schemas/card_schema.json",
+    "cardName": "Spear Dance",
+    "id": "speardance",
+    "cardUpgraded": 0,
+    "cardRarity": 2,
+    "cardType": 1,
+    "cardClass": 0,
+    "energyCost": 3,
+    "targetType": 0,
+    "targetSide": 0, 
+    "moveToCenter": true,
+    "damage": 15,
+    "specialValue1": 2,
+    "ispecialAuraCurseName1": "fast",
+    "specialValueModifier1": 400.0,
+    "damageType": 3,
+    "damageType2": 3,
+    "damage2": 1,
+    "damage2SpecialValue1": true,
+    "ihealAuraCurseName": "evasion",
+
+
+
+
+
+
+
+
+
+
+    "cardTypeAux": [19]
+  }

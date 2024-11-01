@@ -1,0 +1,25 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Nageld/AtO_Loader/master/schemas/card_schema.json",
+    "cardName": "Resonant Command",
+    "id": "resonantcommandRare",
+    "cardUpgraded": 3,
+    "baseCard": "resonantcommand",
+    "cardRarity": 1,
+    "cardType": 16,
+    "cardClass": 0,
+    "energyCost": 1,
+    "targetType": 0,
+    "targetSide": 1,
+    "damageSpecialValue1": true,
+    "iaura" : "powerful",
+    "auraCharges": 4,
+    "iaura2" : "energize",
+    "auraCharges2": 1,
+    "vanish": true,
+    "ihealAuraCurseName": "weak",
+    "ihealAuraCurseName2": "silence",
+
+
+
+    "cardTypeAux": []
+  }

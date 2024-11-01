@@ -1,0 +1,9 @@
+{
+    "name": "Custom_Content_Loader",
+    "version_number": "0.1.5",
+    "website_url": "https://github.com/Nageld/AtO_Loader/tree/master",
+    "description": "Enables Custom Content to be loaded for Across the Obelisk. Currently supports cards, items and modifying characters.",
+    "dependencies": [
+        "BepInEx-BepInExPack_AcrossTheObelisk-5.4.21"
+    ]
+}

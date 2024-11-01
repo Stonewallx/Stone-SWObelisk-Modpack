@@ -1,0 +1,8 @@
+{
+    "NewGameObjectID": "stormelemental",
+    "BaseGameObjectID": "dualist",
+    "SpriteToUse": "skinStormElemental",
+    "ScaleX": 1.2,
+    "ScaleY": 1.2,
+    "Flip": false
+}

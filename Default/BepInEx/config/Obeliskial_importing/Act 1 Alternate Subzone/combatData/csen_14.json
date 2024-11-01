@@ -1,0 +1,15 @@
+{
+    "CombatID": "csen_14",
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_Tarde",
+    "CombatEffect": [],
+    "CombatMusic": "The Wizard - 320bit",
+    "CombatTier": "T0",
+    "Description": "sheep and boar mix",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": ["wildboara","blacksheep","wildboarb","sheep"],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2"
+}

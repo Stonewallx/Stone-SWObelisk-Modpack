@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Nageld/AtO_Loader/master/schemas/card_schema.json",
+    "cardName": "Haymaker",
+    "id": "haymaker",
+    "cardUpgraded": 0,
+    "cardRarity": 1,
+    "cardType": 1,
+    "cardTypeAux": [
+        19
+    ],
+    "cardClass": 0,
+    "energyCost": 4,
+    "vanish": true,
+    "targetType": 0,
+    "targetSide": 0,
+    "moveToCenter": true,
+    "damage": 25,
+    "specialValue1": 2,
+    "ispecialAuraCurseName1": "vulnerable",
+    "specialValueModifier1": 500.0,
+    "damageType": 2,
+    "damageType2": 2,
+    "damage2": 1,
+    "damage2SpecialValue1": true,
+    "curseCharges": 2,
+    "icurse": "crack"
+}

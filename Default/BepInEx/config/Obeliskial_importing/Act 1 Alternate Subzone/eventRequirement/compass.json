@@ -1,0 +1,11 @@
+{
+    "RequirementID": "compass",
+    "AssignToPlayerAtBegin": false,
+    "Description": "Smuggler's Compass",
+    "ItemSprite": "eventCompass",
+    "RequirementName": "Compass",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": true,
+    "RequirementZoneFinishTrack": "None"
+}

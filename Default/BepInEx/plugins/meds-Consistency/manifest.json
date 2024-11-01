@@ -1,0 +1,9 @@
+{
+    "name": "Consistency",
+    "version_number": "1.0.2",
+    "website_url": "https://github.com/stiffmeds/Consistency",
+    "description": "Disables all in-game Paradox integration.",
+    "dependencies": [
+        "BepInEx-BepInExPack_AcrossTheObelisk-5.4.23"
+	]
+}

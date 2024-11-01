@@ -1,0 +1,29 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Nageld/AtO_Loader/master/schemas/card_schema.json",
+  "cardName": "Blood Rain",
+  "id": "bloodrain",
+  "cardUpgraded": 0,
+  "cardRarity": 2,
+  "cardType": 16,
+  "cardTypeAux": [],
+  "cardClass": 0,
+  "energyCost": 2,
+  "playable": true,
+  "autoplayDraw": false,
+  "autoplayEndTurn": false,
+  "vanish": true,
+  "innate": false,
+  "targetType": 1,
+  "targetSide": 2, 
+  "moveToCenter": false,
+
+  "ihealAuraCurseName":"wet",
+  "ispecialAuraCurseName1":"wet",
+  "specialValue1": 2,
+  "specialValueModifier1": 100,
+
+  "curseChargesSpecialValue1": true,
+  "icurse":"bleed",
+
+  "imageFileName": "BloodRain.png"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Warrior_Card_Ideas",
+    "version_number": "1.0.1",
+    "description": "Warrior cards suggested by the community.",
+    "website_url": "https://github.com/Nageld/AtO-WarriorCards",
+    "dependencies": ["AtO_Loader-Custom_Content_Loader-0.1.5"]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Superlative_Sandbox",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/stiffmeds/Superlative-Sandbox",
+    "description": "Increased limits for sandbox mode.",
+    "dependencies": [
+        "BepInEx-BepInExPack_AcrossTheObelisk-5.4.21"
+    ]
+}

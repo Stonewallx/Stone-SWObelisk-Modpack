@@ -1,0 +1,15 @@
+{
+    "CombatID": "esubterriver_7a",
+    "CinematicData": "",
+    "CombatBackground": "Spider_Lair",
+    "CombatEffect": [],
+    "CombatMusic": "Might & Magic - 320bit",
+    "CombatTier": "T0",
+    "Description": "",
+    "EventData": "",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": ["waterelemental","waterelemental"],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2"
+}

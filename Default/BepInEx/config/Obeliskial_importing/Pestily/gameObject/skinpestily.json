@@ -1,0 +1,8 @@
+{
+    "NewGameObjectID": "skinpestily",
+    "BaseGameObjectID": "mudmenboss",
+    "SpriteToUse": "",
+    "ScaleX": 1.0,
+    "ScaleY": 1.0,
+    "Flip": true
+}

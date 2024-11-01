@@ -1,0 +1,10 @@
+{
+    "name": "Act_1_Alternate_Subzone",
+    "version_number": "1.0.4",
+    "website_url": "https://github.com/DudeManBroFoSho/AtO_Mod_Act1AlternateSubzone",
+    "description": "An Adventure Mode mod that contains a new 'optimal' route through Act 1 which offers equivalent power progression to the traditional Betty -> Hatch -> Yogger route, and which features a brand new subzone and new enemies, minibosses, items, and more!",
+    "dependencies": [
+        "meds-Obeliskial_Essentials-1.1.0",
+        "meds-Obeliskial_Content-1.1.0"
+    ]
+}

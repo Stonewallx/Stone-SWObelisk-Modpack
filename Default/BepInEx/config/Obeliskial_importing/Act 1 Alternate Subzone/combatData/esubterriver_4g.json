@@ -1,0 +1,15 @@
+{
+    "CombatID": "esubterriver_4g",
+    "CinematicData": "",
+    "CombatBackground": "Spider_Lair",
+    "CombatEffect": [],
+    "CombatMusic": "5_Alexander Nakarada - Explorer",
+    "CombatTier": "T2",
+    "Description": "storm elemental",
+    "EventData": "e_subterriver4_k",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": ["stormelemental","","waterelemental"],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T4"
+}

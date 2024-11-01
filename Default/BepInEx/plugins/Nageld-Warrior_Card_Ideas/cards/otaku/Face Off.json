@@ -1,0 +1,27 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Nageld/AtO_Loader/master/schemas/card_schema.json",
+  "cardName": "Face Off",
+  "id": "faceoff",
+  "cardUpgraded": 0,
+  "cardRarity": 3,
+  "cardType": 16,
+  "cardTypeAux": [],
+  "cardClass": 0,
+  "energyCost": 2,
+  "playable": true,
+  "autoplayDraw": false,
+  "autoplayEndTurn": false,
+  "vanish": true,
+  "innate": false,
+  "targetType": 0,
+  "targetSide": 0, 
+  "targetPosition": 1,
+  "moveToCenter": false,
+
+  "icurseSelf": "taunt",
+  "curseCharges": 2,
+  "icurse2": "taunt",
+  "curseCharges2": 2,
+
+  "imageFileName": "FaceOff.png"
+}

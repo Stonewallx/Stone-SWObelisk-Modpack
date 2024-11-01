@@ -1,0 +1,8 @@
+{
+    "NewGameObjectID": "waterelemental",
+    "BaseGameObjectID": "castormago",
+    "SpriteToUse": "skinWaterElemental",
+    "ScaleX": 1.1,
+    "ScaleY": 1.1,
+    "Flip": false
+}

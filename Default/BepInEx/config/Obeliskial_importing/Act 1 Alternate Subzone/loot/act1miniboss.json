@@ -1,0 +1,10 @@
+{
+    "ID": "act1miniboss",
+    "DefaultPercentEpic": 0,
+    "DefaultPercentMythic": 0,
+    "DefaultPercentRare": 0,
+    "DefaultPercentUncommon": 50,
+    "GoldQuantity": 70,
+    "LootItemTable": ["{\n   \"LootCard\": \"iwmistblade\",\n   \"LootPercent\": 100,\n   \"LootRarity\": \"Uncommon\",\n   \"LootType\": \"None\"\n}","{\n   \"LootCard\": \"ijdigestedpendant\",\n   \"LootPercent\": 100,\n   \"LootRarity\": \"Uncommon\",\n   \"LootType\": \"None\"\n}","{\n   \"LootCard\": \"iarmstormarmor\",\n   \"LootPercent\": 100,\n   \"LootRarity\": \"Uncommon\",\n   \"LootType\": \"None\"\n}"],
+    "NumItems": 8
+}

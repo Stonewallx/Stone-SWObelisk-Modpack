@@ -1,0 +1,15 @@
+{
+    "CombatID": "esubterriver_4c",
+    "CinematicData": "",
+    "CombatBackground": "Spider_Lair",
+    "CombatEffect": [],
+    "CombatMusic": "Foreverlands - 320bit",
+    "CombatTier": "T0",
+    "Description": "miniectoplasms",
+    "EventData": "e_subterriver4_e",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": ["miniectoplasm_preboss","miniectoplasm_preboss","miniectoplasm_preboss","miniectoplasm_preboss"],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2"
+}

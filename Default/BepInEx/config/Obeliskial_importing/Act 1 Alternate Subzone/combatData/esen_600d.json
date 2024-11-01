@@ -1,0 +1,15 @@
+{
+    "CombatID": "esen_600d",
+    "CinematicData": "",
+    "CombatBackground": "Senenthia_Dia",
+    "CombatEffect": [],
+    "CombatMusic": "16_Nowhere Land - Alexander Nakarada",
+    "CombatTier": "T0",
+    "Description": "thieves",
+    "EventData": "e_sen600_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": ["brigand","cutthroat","shaman","cutthroat"],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2"
+}

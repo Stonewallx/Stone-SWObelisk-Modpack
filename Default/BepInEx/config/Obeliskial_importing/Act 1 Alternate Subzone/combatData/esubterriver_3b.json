@@ -1,0 +1,15 @@
+{
+    "CombatID": "esubterriver_3b",
+    "CinematicData": "",
+    "CombatBackground": "Spider_Lair",
+    "CombatEffect": ["{\n   \"AuraCurse\": \"fast\",\n   \"AuraCurseCharges\": 2,\n   \"AuraCurseTarget\": \"Monsters\"\n}","{\n   \"AuraCurse\": \"sharp\",\n   \"AuraCurseCharges\": 2,\n   \"AuraCurseTarget\": \"Monsters\"\n}","{\n   \"AuraCurse\": \"mark\",\n   \"AuraCurseCharges\": 2,\n   \"AuraCurseTarget\": \"Heroes\"\n}"],
+    "CombatMusic": "20_Until+the+End - Alexander Nakarada",
+    "CombatTier": "T0",
+    "Description": "smuggler captain bonus",
+    "EventData": "e_subterriver3_c",
+    "EventRequirementData": "act1subzonemini",
+    "HealHeroes": false,
+    "NPCList": ["smugglercaptain"],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2"
+}

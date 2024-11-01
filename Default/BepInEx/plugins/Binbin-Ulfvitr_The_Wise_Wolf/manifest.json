@@ -1,0 +1,9 @@
+{
+    "name": "Ulfvitr_The_Wise_Wolf",
+    "version_number": "1.0.8",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "New Hero Mod for Ulfvitr, the Wise Wolf, a Wet-Lighting-Regen based Shaman.",
+    "dependencies": [
+        "meds-Obeliskial_Content-1.2.2"
+    ]
+}

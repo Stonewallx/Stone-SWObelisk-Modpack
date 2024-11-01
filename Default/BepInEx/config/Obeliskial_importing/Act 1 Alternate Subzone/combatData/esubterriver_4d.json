@@ -1,0 +1,15 @@
+{
+    "CombatID": "esubterriver_4d",
+    "CinematicData": "",
+    "CombatBackground": "Spider_Lair",
+    "CombatEffect": [],
+    "CombatMusic": "5_Alexander Nakarada - Explorer",
+    "CombatTier": "T2",
+    "Description": "ectoplasm",
+    "EventData": "e_subterriver4_f",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": ["","","greaterectoplasm"],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T4"
+}

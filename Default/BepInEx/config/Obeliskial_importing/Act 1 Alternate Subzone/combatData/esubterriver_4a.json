@@ -1,0 +1,15 @@
+{
+    "CombatID": "esubterriver_4a",
+    "CinematicData": "",
+    "CombatBackground": "Spider_Lair",
+    "CombatEffect": [],
+    "CombatMusic": "Foreverlands - 320bit",
+    "CombatTier": "T0",
+    "Description": "animated armor",
+    "EventData": "e_subterriver4_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": ["construct_one","","construct_two"],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2"
+}

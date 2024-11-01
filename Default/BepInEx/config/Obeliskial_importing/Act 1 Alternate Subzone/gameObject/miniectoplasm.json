@@ -1,0 +1,8 @@
+{
+    "NewGameObjectID": "miniectoplasm",
+    "BaseGameObjectID": "slime",
+    "SpriteToUse": "skinEctoplasm",
+    "ScaleX": 0.8,
+    "ScaleY": 0.8,
+    "Flip": false
+}

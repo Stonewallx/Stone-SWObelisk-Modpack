@@ -1,0 +1,11 @@
+{
+    "RequirementID": "act1subzonepoison",
+    "AssignToPlayerAtBegin": false,
+    "Description": "poison river background for subterranean river",
+    "ItemSprite": "",
+    "RequirementName": "",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "None"
+}

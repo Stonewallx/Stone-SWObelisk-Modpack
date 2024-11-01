@@ -1,0 +1,15 @@
+{
+    "CombatID": "esubterriver_6a",
+    "CinematicData": "",
+    "CombatBackground": "Spider_Lair",
+    "CombatEffect": [],
+    "CombatMusic": "Might & Magic - 320bit",
+    "CombatTier": "T0",
+    "Description": "mix of miniboss enemies",
+    "EventData": "e_subterriver10_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": ["construct_one","","waterelemental"],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2"
+}

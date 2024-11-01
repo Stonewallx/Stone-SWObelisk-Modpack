@@ -1,0 +1,30 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Nageld/AtO_Loader/master/schemas/card_schema.json",
+  "cardName": "Shields Up!",
+  "id": "shieldsup",
+  "cardUpgraded": 0,
+  "cardRarity": 2,
+  "cardType": 16,
+  "cardTypeAux": [],
+  "cardClass": 0,
+  "energyCost": 1,
+  "playable": true,
+  "autoplayDraw": false,
+  "autoplayEndTurn": false,
+  "vanish": false,
+  "innate": false,
+  "targetType": 0,
+  "targetSide": 1, 
+  "moveToCenter": false,
+
+  "ihealAuraCurseName":"shield",
+  "ispecialAuraCurseName1":"shield",
+  "specialValue1": 2,
+  "specialValueModifier1": 50,
+
+  "auraChargesSpecialValue1": true,
+  "iaura":"block",
+  "ispecialAuraCurseName1":"block",
+
+  "imageFileName": "ShieldsUp.png"
+}

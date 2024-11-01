@@ -1,0 +1,30 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Nageld/AtO_Loader/master/schemas/card_schema.json",
+  "cardName": "Jailer's Chain",
+  "id": "jailerschain",
+  "cardUpgraded": 0,
+  "cardRarity": 3,
+  "cardType": 16,
+  "cardTypeAux": [],
+  "cardClass": 0,
+  "energyCost": 1,
+  "playable": true,
+  "autoplayDraw": false,
+  "autoplayEndTurn": false,
+  "vanish": true,
+  "innate": false,
+  "targetType": 0,
+  "targetSide": 0, 
+  "moveToCenter": false,
+
+  "icurseSelf": "paralyze",
+  "curseCharges": 2,
+  "icurse2": "paralyze",
+  "curseCharges2": 1,
+  "icurse3":"shackle",
+  "curseCharges3": 1,
+
+  "discardCard": 10,
+
+  "imageFileName": "JailersChain.png"
+}

@@ -1,0 +1,15 @@
+{
+    "Card0": "toxicritual",
+    "Card1": "acidrain",
+    "Card2": "curseofagony",
+    "Card3": "heal",
+    "Card4": "detoxify",
+    "Card5": "",
+    "CardSpecial0": "",
+    "CardSpecial1": "",
+    "PackClass": "Healer",
+    "PackID": "pestily",
+    "PackName": "Pestily",
+    "PerkList": [],
+    "RequiredClass": "biohealer"
+}

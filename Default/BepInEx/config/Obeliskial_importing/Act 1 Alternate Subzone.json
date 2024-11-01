@@ -1,0 +1,21 @@
+{
+	"Name": "Act 1 Alternate Subzone",
+	"Author": "dudebrobelisk",
+	"Description": "An Adventure Mode mod that contains a new 'optimal' route through Act 1 which offers equivalent power progression to the traditional Betty -> Hatch -> Yogger route, and which features a brand new subzone and new enemies, minibosses, items, and more!",
+	"Version": "1.0.3",
+	"Date": 20231219,
+	"Link": "https://across-the-obelisk.thunderstore.io/package/dudebrobelisk/Act_1_Alternate_Subzone/",
+	"Dependencies": [
+		"stiffmeds-Obeliskial_Content-1.1.0"
+	],
+	"ContentFolder": "Act 1 Alternate Subzone",
+	"Priority": 100,
+	"Type": [
+		"zone",
+		"event",
+		"combat",
+		"npc"
+	],
+	"Comment": "",
+	"Enabled": true
+}

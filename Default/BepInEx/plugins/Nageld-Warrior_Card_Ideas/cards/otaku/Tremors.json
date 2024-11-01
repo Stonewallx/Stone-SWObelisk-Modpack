@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Nageld/AtO_Loader/master/schemas/card_schema.json",
+  "cardName": "Tremors",
+  "id": "tremors",
+  "cardUpgraded": 0,
+  "cardRarity": 3,
+  "cardType": 16,
+  "cardTypeAux": [],
+  "cardClass": 0,
+  "energyCost": 3,
+  "playable": true,
+  "autoplayDraw": false,
+  "autoplayEndTurn": false,
+  "vanish": true,
+  "innate": false,
+  "targetType": 1,
+  "targetSide": 2, 
+  "moveToCenter": true,
+
+  "icurse": "crack",
+  "curseCharges": 1,
+  "effectRepeat": 3,
+
+  "imageFileName": "Tremors.png"
+}

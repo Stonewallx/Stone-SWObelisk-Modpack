@@ -1,0 +1,17 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Nageld/AtO_Loader/master/schemas/card_schema.json",
+    "cardName": "Intimidating Shout",
+    "id": "intimidatingshoutA",
+    "baseCard": "intimidatingshout",
+    "cardUpgraded": 1,
+    "cardRarity": 1,
+    "cardType": 16,
+    "cardTypeAux": [],
+    "cardClass": 0,
+    "energyCost": 4,
+    "vanish": true,
+    "targetType": 0,
+    "targetSide": 0,
+    "curseCharges": 1,
+    "icurse": "paralyze"
+}

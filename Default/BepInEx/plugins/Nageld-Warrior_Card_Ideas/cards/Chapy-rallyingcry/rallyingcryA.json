@@ -1,0 +1,17 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Nageld/AtO_Loader/master/schemas/card_schema.json",
+    "cardName": "Rallying Cry",
+    "id": "rallyingcryA",
+    "baseCard": "rallyingcry",
+    "cardUpgraded": 1,
+    "cardRarity": 1,
+    "cardType": 16,
+    "cardClass": 0,
+    "energyCost": 4,
+    "targetType": 0,
+    "targetSide": 1,
+    "damageSpecialValue1": true,
+    "iaura": "vitality",
+    "auraCharges": 4,
+    "cardTypeAux": []
+}

@@ -1,0 +1,11 @@
+{
+    "RequirementID": "act1subzonemini",
+    "AssignToPlayerAtBegin": false,
+    "Description": "unlocks miniboss in alt 1 subzone",
+    "ItemSprite": "",
+    "RequirementName": "",
+    "RequirementTrack": false,
+    "TrackSprite": "",
+    "ItemTrack": false,
+    "RequirementZoneFinishTrack": "None"
+}

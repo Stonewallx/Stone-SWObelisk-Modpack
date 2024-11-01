@@ -1,0 +1,9 @@
+{
+    "name": "Challenging_Corruptors",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/stiffmeds/Challenging_Corruptors",
+    "description": "Allows you to choose the minimum difficulty of corruptors.",
+    "dependencies": [
+        "BepInEx-BepInExPack_AcrossTheObelisk-5.4.21"
+    ]
+}

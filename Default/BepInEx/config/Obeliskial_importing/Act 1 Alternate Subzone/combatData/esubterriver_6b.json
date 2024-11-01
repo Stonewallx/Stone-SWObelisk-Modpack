@@ -1,0 +1,15 @@
+{
+    "CombatID": "esubterriver_6b",
+    "CinematicData": "",
+    "CombatBackground": "Spider_Lair",
+    "CombatEffect": ["{\n   \"AuraCurse\": \"stealth\",\n   \"AuraCurseCharges\": 2,\n   \"AuraCurseTarget\": \"Heroes\"\n}"],
+    "CombatMusic": "Might & Magic - 320bit",
+    "CombatTier": "T0",
+    "Description": "mix of miniboss enemies",
+    "EventData": "e_subterriver10_b",
+    "EventRequirementData": "",
+    "HealHeroes": false,
+    "NPCList": ["construct_one","","waterelemental"],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2"
+}

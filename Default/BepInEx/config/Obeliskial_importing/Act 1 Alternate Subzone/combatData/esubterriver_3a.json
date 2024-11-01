@@ -1,0 +1,15 @@
+{
+    "CombatID": "esubterriver_3a",
+    "CinematicData": "",
+    "CombatBackground": "Spider_Lair",
+    "CombatEffect": [],
+    "CombatMusic": "20_Until+the+End - Alexander Nakarada",
+    "CombatTier": "T0",
+    "Description": "smuggler captain",
+    "EventData": "e_subterriver3_c",
+    "EventRequirementData": "act1subzonemini",
+    "HealHeroes": false,
+    "NPCList": ["smugglercaptain"],
+    "NPCRemoveInMadness0Index": -1,
+    "ThermometerTierData": "T2"
+}
