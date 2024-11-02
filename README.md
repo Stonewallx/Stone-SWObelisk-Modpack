@@ -1,6 +1,6 @@
 # Stonewall Obelisk Modpack
 
-- Modpack Version: v4.2.1
+- Modpack Version: v4.2.3
 
 # Instruction:
 - Run MSI installer or extract zip to "C:\Users\USER\AppData\Roaming\r2modmanPlus-local\AcrossTheObelisk\profiles".

@@ -30,7 +30,7 @@
     "HitSound": "vx_pc_zek_hurt_01",
     "HP": 85,
     "ID": "biohealer",
-    "Item": "goldring",
+    "Item": "poisonelixir",
     "MaxHP": [
         0,
         5,
