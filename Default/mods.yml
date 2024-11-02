@@ -18,8 +18,7 @@
     minor: 4
     patch: 23
   enabled: true
-  icon: C:/Users/Stone/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/AcrossTheObelisk/cache/BepInEx-BepInExPack_AcrossTheObelisk/5.4.23/icon.png
+  icon: C:\Users\Stone\AppData\Roaming\r2modmanPlus-local\AcrossTheObelisk\cache\BepInEx-BepInExPack_AcrossTheObelisk\5.4.23\icon.png
 - manifestVersion: 1
   name: HookGenPatcher-HookGenPatcher
   authorName: HookGenPatcher
@@ -41,8 +40,7 @@
     minor: 2
     patch: 10
   enabled: true
-  icon: C:/Users/Stone/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/AcrossTheObelisk/cache/HookGenPatcher-HookGenPatcher/1.2.10/icon.png
+  icon: C:\Users\Stone\AppData\Roaming\r2modmanPlus-local\AcrossTheObelisk\profiles\Default\BepInEx\plugins\HookGenPatcher-HookGenPatcher\icon.png
 - manifestVersion: 1
   name: AtO_Loader-Custom_Content_Loader
   authorName: AtO_Loader
@@ -65,8 +63,7 @@
     minor: 1
     patch: 5
   enabled: true
-  icon: C:/Users/Stone/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/AcrossTheObelisk/cache/AtO_Loader-Custom_Content_Loader/0.1.5/icon.png
+  icon: C:\Users\Stone\AppData\Roaming\r2modmanPlus-local\AcrossTheObelisk\profiles\Default\BepInEx\plugins\AtO_Loader-Custom_Content_Loader\icon.png
 - manifestVersion: 1
   name: meds-Obeliskial_Essentials
   authorName: meds
@@ -88,31 +85,29 @@
     minor: 3
     patch: 0
   enabled: true
-  icon: C:/Users/Stone/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/AcrossTheObelisk/cache/meds-Obeliskial_Essentials/1.3.0/icon.png
+  icon: C:\Users\Stone\AppData\Roaming\r2modmanPlus-local\AcrossTheObelisk\profiles\Default\BepInEx\plugins\meds-Obeliskial_Essentials\icon.png
 - manifestVersion: 1
   name: meds-Obeliskial_Content
   authorName: meds
-  websiteUrl: https://across-the-obelisk.thunderstore.io/package/meds/Obeliskial_Content/
+  websiteUrl: https://thunderstore.io/c/across-the-obelisk/p/meds/Obeliskial_Content/
   displayName: Obeliskial_Content
   description: Enables custom content in Across the Obelisk.
   gameVersion: "0"
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 0
+  installedAtTime: 1730521365396
   loaders: []
   dependencies:
-    - meds-Obeliskial_Essentials-1.1.0
+    - meds-Obeliskial_Essentials-1.3.0
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
-    minor: 2
-    patch: 2
+    minor: 3
+    patch: 0
   enabled: true
-  icon: C:/Users/Stone/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/AcrossTheObelisk/cache/meds-Obeliskial_Content/1.2.2/icon.png
+  icon: C:\Users\Stone\AppData\Roaming\r2modmanPlus-local\AcrossTheObelisk\profiles\Default\BepInEx\plugins\meds-Obeliskial_Content\icon.png
 - manifestVersion: 1
   name: meds-OCP_1_Heroes_and_Pets
   authorName: meds
@@ -135,8 +130,7 @@
     minor: 0
     patch: 5
   enabled: true
-  icon: C:/Users/Stone/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/AcrossTheObelisk/cache/meds-OCP_1_Heroes_and_Pets/1.0.5/icon.png
+  icon: C:\Users\Stone\AppData\Roaming\r2modmanPlus-local\AcrossTheObelisk\profiles\Default\BepInEx\plugins\meds-OCP_1_Heroes_and_Pets\icon.png
 - manifestVersion: 1
   name: meds-Obeliskial_Options
   authorName: meds
@@ -158,8 +152,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:/Users/Stone/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/AcrossTheObelisk/cache/meds-Obeliskial_Options/2.1.0/icon.png
+  icon: C:\Users\Stone\AppData\Roaming\r2modmanPlus-local\AcrossTheObelisk\profiles\Default\BepInEx\plugins\meds-Obeliskial_Options\icon.png
 - manifestVersion: 1
   name: meds-Consistency
   authorName: meds
@@ -181,8 +174,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:/Users/Stone/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/AcrossTheObelisk/cache/meds-Consistency/1.0.2/icon.png
+  icon: C:\Users\Stone\AppData\Roaming\r2modmanPlus-local\AcrossTheObelisk\profiles\Default\BepInEx\plugins\meds-Consistency\icon.png
 - manifestVersion: 1
   name: dudebrobelisk-Act_1_Alternate_Subzone
   authorName: dudebrobelisk
@@ -208,8 +200,7 @@
     minor: 0
     patch: 4
   enabled: true
-  icon: C:/Users/Stone/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/AcrossTheObelisk/cache/dudebrobelisk-Act_1_Alternate_Subzone/1.0.4/icon.png
+  icon: C:\Users\Stone\AppData\Roaming\r2modmanPlus-local\AcrossTheObelisk\profiles\Default\BepInEx\plugins\dudebrobelisk-Act_1_Alternate_Subzone\icon.png
 - manifestVersion: 1
   name: meds-Superlative_Sandbox
   authorName: meds
@@ -231,8 +222,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:/Users/Stone/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/AcrossTheObelisk/cache/meds-Superlative_Sandbox/1.0.0/icon.png
+  icon: C:\Users\Stone\AppData\Roaming\r2modmanPlus-local\AcrossTheObelisk\profiles\Default\BepInEx\plugins\meds-Superlative_Sandbox\icon.png
 - manifestVersion: 1
   name: rf5860-HighlightMapPaths
   authorName: rf5860
@@ -254,8 +244,7 @@
     minor: 0
     patch: 3
   enabled: true
-  icon: C:/Users/Stone/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/AcrossTheObelisk/cache/rf5860-HighlightMapPaths/3.0.3/icon.png
+  icon: C:\Users\Stone\AppData\Roaming\r2modmanPlus-local\AcrossTheObelisk\profiles\Default\BepInEx\plugins\rf5860-HighlightMapPaths\icon.png
 - manifestVersion: 1
   name: Nageld-Warrior_Card_Ideas
   authorName: Nageld
@@ -277,8 +266,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:/Users/Stone/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/AcrossTheObelisk/cache/Nageld-Warrior_Card_Ideas/1.0.1/icon.png
+  icon: C:\Users\Stone\AppData\Roaming\r2modmanPlus-local\AcrossTheObelisk\profiles\Default\BepInEx\plugins\Nageld-Warrior_Card_Ideas\icon.png
 - manifestVersion: 1
   name: meds-Challenging_Corruptors
   authorName: meds
@@ -300,8 +288,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:/Users/Stone/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/AcrossTheObelisk/cache/meds-Challenging_Corruptors/1.0.0/icon.png
+  icon: C:\Users\Stone\AppData\Roaming\r2modmanPlus-local\AcrossTheObelisk\profiles\Default\BepInEx\plugins\meds-Challenging_Corruptors\icon.png
 - manifestVersion: 1
   name: Binbin-Ulfvitr_The_Wise_Wolf
   authorName: Binbin
@@ -323,8 +310,7 @@
     minor: 0
     patch: 8
   enabled: true
-  icon: C:/Users/Stone/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/AcrossTheObelisk/cache/Binbin-Ulfvitr_The_Wise_Wolf/1.0.8/icon.png
+  icon: C:\Users\Stone\AppData\Roaming\r2modmanPlus-local\AcrossTheObelisk\profiles\Default\BepInEx\plugins\Binbin-Ulfvitr_The_Wise_Wolf\icon.png
 - manifestVersion: 1
   name: Binbin-Ursur_The_Tyrant
   authorName: Binbin
@@ -347,8 +333,7 @@
     minor: 0
     patch: 19
   enabled: true
-  icon: C:/Users/Stone/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/AcrossTheObelisk/cache/Binbin-Ursur_The_Tyrant/1.0.19/icon.png
+  icon: C:\Users\Stone\AppData\Roaming\r2modmanPlus-local\AcrossTheObelisk\profiles\Default\BepInEx\plugins\Binbin-Ursur_The_Tyrant\icon.png
 - manifestVersion: 1
   name: Binbin-Multiple_Rerolls
   authorName: Binbin
@@ -371,5 +356,29 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:/Users/Stone/AppData/Roaming/Thunderstore Mod
-    Manager/DataFolder/AcrossTheObelisk/cache/Binbin-Multiple_Rerolls/1.0.0/icon.png
+  icon: C:\Users\Stone\AppData\Roaming\r2modmanPlus-local\AcrossTheObelisk\profiles\Default\BepInEx\plugins\Binbin-Multiple_Rerolls\icon.png
+- manifestVersion: 1
+  name: StoneATO-SCP1_Pestily
+  authorName: StoneATO
+  websiteUrl: https://thunderstore.io/c/across-the-obelisk/p/StoneATO/SCP1_Pestily/
+  displayName: SCP1_Pestily
+  description: Content Pack for AtO that consists of a new Healer / Mage and some
+    cards that revolve around Poison / Dark. May be updated to include more
+    content in time.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1730557717180
+  loaders: []
+  dependencies:
+    - meds-Obeliskial_Essentials-1.3.0
+    - meds-Obeliskial_Content-1.3.0
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 0
+    patch: 0
+  enabled: true
+  icon: C:\Users\Stone\AppData\Roaming\r2modmanPlus-local\AcrossTheObelisk\cache\StoneATO-SCP1_Pestily\1.0.0\icon.png
