@@ -1,6 +1,8 @@
 # Stonewall Obelisk Modpack
 
-- Modpack Version: v4.2.3
+- Modpack Version: v4.3.0
+
+**THIS IS A PRIVATE MODPACK AND NOT FOR PUBLIC USE. I DO NOT TAKE CREDIT FOR MOST MODS IN THIS PACK.**
 
 # Instruction:
 - Run MSI installer or extract zip to "C:\Users\USER\AppData\Roaming\r2modmanPlus-local\AcrossTheObelisk\profiles".
