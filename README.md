@@ -1,6 +1,6 @@
 # Stonewall Obelisk Modpack
 
-- Modpack Version: v4.3.0
+- Modpack Version: v4.4.0
 
 **THIS IS A PRIVATE MODPACK AND NOT FOR PUBLIC USE. I DO NOT TAKE CREDIT FOR MOST MODS IN THIS PACK.**
 
